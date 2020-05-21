@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Bahianita&family=Germania+One&family=Keania+One&family=Metal+Mania&family=Oxanium:wght@800&family=Pacifico&display=swap');
+.top-section{
+  overflow: hidden;
+}
+.nav-color{
+  background-color: #d56073;
+}
+.navbar-title-name{
+  color: white;
+  font-weight: bolder;
+  font-family: 'Metal Mania','Bahianita', cursive;
+  font-size: 3.3rem;
+}
+.nav-item-color ul li a{
+  color: white;
+  font-size: 2rem;
+  font-family: 'Germania One', cursive;
+}
+.nav-item-color ul li a:hover{
+  color: #d56073;
+  font-size: 2rem;
+  font-family: 'Germania One', cursive;
+  background-color: #fafaad;
+}
+.lines{
+  background-color: white;
+}
+.cor-section{
+  margin-top: -20px;
+}
+.footer-main{
+  background-color: #d56073;
+}
+.about-us{
+
+  text-align: left;
+  line-height: 2.5rem;
+  margin-left: 10px;
+  overflow: hidden;
+}
+.question{
+  font-family: 'Germania One' , cursive;
+  font-size: 2rem;
+  color: white;
+  line-height: 4rem;
+}
+.question:hover{
+  color: #dfada0;
+}
+.answer{
+  font-family: 'Keania One' , cursive;
+  color: white;
+  font-weight: 100;
+  margin-top: 5px;
+  margin-bottom: 10px;
+
+}
+.rand a{
+  text-decoration: none;
+  color: white;
+}
+.randoms{
+  height: 50px;
+}
+@media screen and(max-width:500px) {
+  body{
+    color:blue;
+  }
+}
